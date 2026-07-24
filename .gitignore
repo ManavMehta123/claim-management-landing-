@@ -1,3 +1,4 @@
 .env
 .env.example
 %USERPROFILE%
+node_modules
